@@ -12,5 +12,5 @@ export default function ProductCard({price="unknown", amount="unknown", name="un
       <p>Color: {color}</p>
       <p>Size: {size}</p>
     </div>
-  )
+  ) 
 }
